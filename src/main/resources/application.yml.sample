@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      uri:
+      auto-index-creation: false
+jwt:
+  secret:
